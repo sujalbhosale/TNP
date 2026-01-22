@@ -1,0 +1,17 @@
+package test_package1;
+
+public class Test_class1 {
+	
+	void show(String n) {
+		System.out.println("Show invoked "+n);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println();
+		Test_class1 t = new Test_class1();
+		t.show("sujal");
+
+	}
+
+}
