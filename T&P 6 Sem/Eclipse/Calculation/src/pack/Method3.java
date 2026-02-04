@@ -3,7 +3,7 @@ package pack;
 public class Method3 {
 	
 	int add() {
-		int c=10+12;
+		int c=24+12;
 		System.out.println("A="+c+"\n");
 		
 		return 0;
